@@ -93,12 +93,12 @@ p{
         display: flex;
         justify-content: center;
         width: 90%;
+        gap: 70px;
     }
 
     article{
         flex: 1 1 300px;
         max-width: none;
-        gap: 20px;
     }
 
     img{
